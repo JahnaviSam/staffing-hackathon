@@ -1,349 +1,346 @@
 # 2026 Staffing Approval Memos
 
-## Argentina: Approve staffing for Argentina: 14 agents Jan-Sep and 20 agents Oct-Dec.
+## Argentina: Approve staffing increase from 16 agents for Jan-Sep to 22 agents for Oct-Dec in Argentina.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 200 | 14 |
-| Agents Oct–Dec | 200 | 20 |
-| Net value 2026 | $-2.38M | $-0.63M |
+| Agents Jan–Sep | 200 | 16 |
+| Agents Oct–Dec | 200 | 22 |
+| Net value 2026 | $-2.38M | $-0.65M |
 
 **Why:**
-- Hiring 20 agents in October ensures we meet peak demand in Q4, as they require a month to ramp up.
-- Each agent generates $4.89 for every dollar spent on salary, indicating strong value and justifying the additional hires.
-- Firing 186 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
+- Hiring 22 agents in Q4 is crucial as we expect peak demand, and each agent can support up to 10 advertisers, preventing potential abandonment.
+- Firing 184 agents in January incurs a one-time cost of $1.66M, making it financially sensible to hire now rather than pay idle agents.
+- With a value per agent of 4.89, each agent generates significantly more value than their salary, ensuring a positive return on investment.
 
 **Risks:**
-- If we do not hire the recommended agents, we risk losing advertisers during the busy season, which could impact revenue.
-- There may be challenges in finding qualified candidates quickly enough to meet the October deadline.
+- If we delay hiring until October, we risk not having enough agents ready to meet the peak demand in November.
+- There is a possibility that the hiring process may not yield the full 22 agents if there are recruitment challenges.
 
-**Decision needed:** Please sign off on the staffing recommendation for Argentina.
+**Decision needed:** Please approve the staffing increase to 22 agents for the Oct-Dec period.
 
-## Australia: Approve staffing for Australia: 71 agents Jan-Sep and 106 agents Oct-Dec.
+## Australia: Approve staffing for Australia: 79 agents Jan-Sep and 117 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 450 | 71 |
-| Agents Oct–Dec | 450 | 106 |
-| Net value 2026 | $4.67M | $12.67M |
+| Agents Jan–Sep | 450 | 79 |
+| Agents Oct–Dec | 450 | 117 |
+| Net value 2026 | $4.67M | $12.46M |
 
 **Why:**
-- Hiring 106 agents for Q4 ensures we meet peak demand, as the busiest month is November.
 - Each agent generates $7.32 for every dollar spent, indicating strong value compared to their salary.
-- Firing 379 agents in January is costly; hiring now avoids paying idle agents throughout the year.
-
-**Risks:**
-- If we delay hiring until October, we may not have enough agents ready for the peak demand in November.
-- There is a risk of losing advertisers if we cannot meet their needs due to insufficient staffing.
-
-**Decision needed:** Please approve the staffing recommendation for Australia.
-
-## Brazil: Approve staffing for Brazil: 91 agents Jan-Sep and 125 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 189 | 91 |
-| Agents Oct–Dec | 189 | 125 |
-| Net value 2026 | $43.51M | $44.61M |
-
-**Why:**
-- Each agent generates $18.58 for every $1 spent on salary, indicating strong value for the investment.
-- Hiring 125 agents in October ensures we meet peak demand in Q4, preventing potential advertiser losses.
-- Firing 98 agents in January is cost-effective, as it avoids paying idle agents throughout the year.
-
-**Risks:**
-- There may be a temporary dip in service quality during the ramp-up period for new hires.
-- If hiring is delayed, we risk losing advertisers due to longer wait times in Q4.
-
-**Decision needed:** Please approve the staffing levels for Brazil as recommended.
-
-## Canada: Approve staffing for Canada: 72 agents Jan-Sep and 106 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 228 | 72 |
-| Agents Oct–Dec | 228 | 106 |
-| Net value 2026 | $15.72M | $19.94M |
-
-**Why:**
-- Each agent generates $6.27 for every dollar spent, indicating strong value compared to their salary.
-- Hiring 106 agents in September ensures we meet peak demand in Q4, preventing potential advertiser losses.
-- Firing 156 agents in January is cost-effective, as it avoids paying idle agents throughout the year.
-
-**Risks:**
-- If hiring is delayed, we may not meet advertiser demand in Q4, leading to potential abandonment.
-- The one-time firing cost of $4.6M could impact budget if not managed properly.
-
-**Decision needed:** Please sign off on the staffing recommendation for Canada.
-
-## China: Approve staffing for 91 agents Jan-Sep and 130 agents Oct-Dec in China.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 252 | 91 |
-| Agents Oct–Dec | 252 | 130 |
-| Net value 2026 | $50.67M | $52.22M |
-
-**Why:**
-- Hiring 130 agents in October is crucial to meet peak demand in Q4, as they require a month to ramp up.
-- Each agent generates significant value, with a value per agent of $26.54, far exceeding their cost of $22,265.
-- Firing 161 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
-
-**Risks:**
-- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4.
-- If demand does not meet expectations, we may have excess staffing in Q1.
-
-**Decision needed:** Please sign off on the staffing recommendation for China.
-
-## France: Approve staffing for 66 agents Jan-Sep and 89 agents Oct-Dec in France.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 489 | 66 |
-| Agents Oct–Dec | 489 | 89 |
-| Net value 2026 | $-4.16M | $9.62M |
-
-**Why:**
-- Hiring 89 agents for Q4 ensures we meet peak demand, as the busiest month is November.
-- Each agent generates a value of $6.21 for every dollar spent on salary, indicating strong profitability.
-- Firing 423 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
-
-**Risks:**
-- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4.
-- If we do not ramp up hiring in September, we may not have enough agents ready for peak demand in November.
-
-**Decision needed:** Please sign off on the staffing recommendation for France.
-
-## Germany: Approve staffing for Germany: 83 agents Jan-Sep and 119 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 602 | 83 |
-| Agents Oct–Dec | 602 | 119 |
-| Net value 2026 | $11.04M | $24.18M |
-
-**Why:**
-- Each agent generates $9.26 for every dollar spent on salary, indicating strong value for the recommended headcount.
-- Firing 519 agents in January incurs a one-time cost of $12,875,629, making it more cost-effective to hire the recommended agents now rather than later.
-- With peak demand in Q4, hiring 119 agents in September ensures we meet advertiser needs without delays, preventing potential loss of advertisers.
-
-**Risks:**
-- If hiring is delayed, we may not have enough agents to handle the increased demand in Q4, risking advertiser satisfaction.
-- The one-time firing cost could impact budget if not managed properly, especially if we need to adjust staffing levels later.
-
-**Decision needed:** Please sign off on the recommended staffing levels for Germany.
-
-## India: Approve staffing for India: 230 agents Jan-Sep and 320 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 428 | 230 |
-| Agents Oct–Dec | 428 | 320 |
-| Net value 2026 | $83.99M | $85.0M |
-
-**Why:**
-- Each agent generates $26.89 for every $1 spent on salary, indicating strong value for the investment.
-- Hiring 320 agents in September ensures we meet peak demand in Q4, preventing potential loss of advertisers due to wait times.
-- Firing 198 agents in January is cost-effective, as it avoids paying idle agents throughout the year.
-
-**Risks:**
-- If hiring is delayed, we may not have enough agents to handle the increased demand in Q4.
-- There is a risk of losing advertisers if we cannot ramp up agents quickly enough before peak season.
-- The one-time firing cost of $1,351,093 could impact our budget if not managed properly.
-
-**Decision needed:** Please sign off on the staffing recommendation for India.
-
-## Indonesia: Approve staffing for Indonesia: 29 agents Jan-Sep and 40 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 120 | 29 |
-| Agents Oct–Dec | 120 | 40 |
-| Net value 2026 | $3.68M | $4.36M |
-
-**Why:**
-- Hiring 40 agents in Q4 is crucial as it aligns with peak demand, ensuring we can support the busiest month effectively.
-- Each agent generates significant value, with a value per agent of 11.78, far exceeding their cost, making additional hires financially beneficial.
-- Firing 91 agents in January reduces costs compared to keeping idle agents, allowing us to invest in necessary staffing for peak periods.
-
-**Risks:**
-- There is a risk of losing advertisers if we cannot meet demand in Q4 due to insufficient staffing.
-- If hiring is delayed beyond September, we may not have agents ready in time for peak demand, impacting service levels.
-
-**Decision needed:** Please approve the staffing recommendation for Indonesia.
-
-## Italy: Approve staffing for Italy: 79 agents Jan-Sep and 114 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 350 | 79 |
-| Agents Oct–Dec | 350 | 114 |
-| Net value 2026 | $5.7M | $11.22M |
-
-**Why:**
-- Each agent generates $5.73 for every dollar spent, indicating strong value compared to their salary.
-- Hiring 114 agents in October is crucial to meet peak demand in Q4, as they require a month to ramp up.
-- If we do not hire the recommended agents, we risk losing advertisers due to longer wait times, potentially impacting our service quality.
-
-**Risks:**
-- Firing 271 agents in January incurs a one-time cost of $5.64M, which could impact our budget.
-- If we hire too late, we may not meet the demand in November, leading to lost opportunities.
-
-**Decision needed:** Please approve the staffing recommendation for Italy.
-
-## Japan: Approve staffing for Japan: 104 agents Jan-Sep and 147 agents Oct-Dec.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 297 | 104 |
-| Agents Oct–Dec | 297 | 147 |
-| Net value 2026 | $24.54M | $28.74M |
-
-**Why:**
-- Each agent generates $7.22 for every $1 spent on salary, indicating strong value for the investment.
-- Hiring 147 agents in September ensures we meet peak demand in Q4, preventing potential loss of advertisers due to wait times.
-- Firing 193 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
+- Hiring 117 agents in September ensures we meet peak demand in Q4, preventing potential advertiser losses.
+- Firing 371 agents in January reduces costs significantly, as it is cheaper than keeping idle agents throughout the year.
 
 **Risks:**
 - There is a risk of not meeting advertiser demand if hiring is delayed beyond September.
-- If the ramp-up period is not managed well, we may face service gaps during peak months.
+- If the ramp-up period is not managed well, we may face service delays during peak months.
 
-**Decision needed:** Please sign off on the staffing recommendation for Japan.
+**Decision needed:** Please approve the staffing recommendation for Australia.
 
-## Mexico: Approve staffing increase from 76 agents for Jan-Sep to 111 agents for Oct-Dec in Mexico.
-
-| | Today | Recommended |
-|---|---|---|
-| Agents Jan–Sep | 442 | 76 |
-| Agents Oct–Dec | 442 | 111 |
-| Net value 2026 | $7.07M | $10.58M |
-
-**Why:**
-- Hiring 111 agents for Q4 ensures we meet peak demand, preventing potential advertiser abandonment.
-- Each agent generates $9.84 in value for every dollar spent on salary, indicating a strong return on investment.
-- Firing 366 agents in January is more cost-effective than keeping idle agents, saving on unnecessary salary expenses.
-
-**Risks:**
-- If we delay hiring until October, we may not have enough agents ready to handle the increased workload in November.
-- There is a risk of losing advertisers if we cannot meet their needs during peak season due to insufficient staffing.
-
-**Decision needed:** Please sign off on the staffing increase for Mexico.
-
-## Poland: Approve staffing for Poland: 48 agents Jan-Sep and 63 agents Oct-Dec.
+## Brazil: Approve staffing for Brazil: 101 agents Jan-Sep and 138 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 150 | 48 |
-| Agents Oct–Dec | 150 | 63 |
-| Net value 2026 | $0.97M | $2.81M |
+| Agents Jan–Sep | 189 | 101 |
+| Agents Oct–Dec | 189 | 138 |
+| Net value 2026 | $43.51M | $44.44M |
 
 **Why:**
-- Hiring 63 agents for Oct-Dec ensures we meet peak demand, as the busiest month is November.
-- Each agent generates $3.53 for every dollar spent, indicating strong value compared to their salary.
-- Firing 102 agents in January is cheaper than keeping idle agents, saving on costs while maintaining service quality.
+- Each agent generates $18.58 for every $1 spent on salary, indicating strong value for the investment.
+- Hiring 138 agents in September ensures we meet peak demand in Q4, preventing potential advertiser losses.
+- Firing 88 agents in January is cost-effective, as it avoids paying idle agents throughout the year.
 
 **Risks:**
-- If we delay hiring until October, we risk losing advertisers due to longer wait times.
-- There may be challenges in finding qualified agents quickly enough to meet the ramp-up period.
-- The decision to fire agents in January could lead to temporary service gaps if not managed properly.
+- If hiring is delayed, we may not meet advertiser demand during the busy Q4 period.
+- There is a risk of losing advertisers if we cannot provide timely support due to insufficient staffing.
 
-**Decision needed:** Please approve the staffing levels for Poland for both periods.
+**Decision needed:** Please approve the staffing levels for Brazil for both periods.
 
-## South Africa: Approve staffing for South Africa: 47 agents Jan-Sep and 64 agents Oct-Dec.
+## Canada: Approve staffing for 80 agents Jan-Sep and 117 agents Oct-Dec in Canada.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 78 | 47 |
-| Agents Oct–Dec | 78 | 64 |
-| Net value 2026 | $2.13M | $2.38M |
+| Agents Jan–Sep | 228 | 80 |
+| Agents Oct–Dec | 228 | 117 |
+| Net value 2026 | $15.72M | $19.64M |
 
 **Why:**
-- Each agent generates a value of 3.25 times their salary, indicating strong financial justification for hiring more agents in Q4.
-- Firing 31 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
-- To meet peak demand in November, we need to hire Q4 agents by September to account for the 1-month ramp-up.
+- Hiring 117 agents for Q4 ensures we meet peak demand, as each agent supports up to 10 advertisers and we have 12.9 daily eligible signups.
+- The value per agent is 6.27, significantly higher than their salary, indicating that each agent generates more value than their cost.
+- Firing 148 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
 
 **Risks:**
-- There is a risk of losing advertisers if we do not hire enough agents in time for peak season.
-- If we do not fire agents early, we may incur unnecessary costs for idle staff.
-- Hiring too many agents could lead to overstaffing if demand does not meet expectations.
+- If we do not hire in September, we may not have enough agents ready for the busy Q4 period, risking advertiser satisfaction.
+- There is a potential for increased turnover if we do not maintain competitive salaries, which could impact service quality.
+
+**Decision needed:** Please sign off on the staffing recommendation for Canada.
+
+## China: Approve staffing for 101 agents Jan-Sep and 143 agents Oct-Dec in China.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 252 | 101 |
+| Agents Oct–Dec | 252 | 143 |
+| Net value 2026 | $50.67M | $52.09M |
+
+**Why:**
+- Hiring 143 agents for Q4 ensures we meet peak demand, as the busiest month is November.
+- Each agent generates significantly more value than their cost, with a value per agent of 26.54 compared to an annual salary of $22,265.
+- Firing 151 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
+
+**Risks:**
+- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4 ramp-up.
+- If we do not maintain adequate staffing, we may face increased wait times for advertisers, potentially leading to abandonment.
+
+**Decision needed:** Please sign off on the staffing recommendation for China.
+
+## France: Approve staffing for 73 agents Jan-Sep and 98 agents Oct-Dec in France.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 489 | 73 |
+| Agents Oct–Dec | 489 | 98 |
+| Net value 2026 | $-4.16M | $9.35M |
+
+**Why:**
+- Hiring 98 agents for Q4 ensures we meet peak demand, as each agent can support up to 10 advertisers and we have 11.4 daily eligible signups.
+- The value per agent is 6.21, indicating that each agent generates significantly more value than their cost, making this staffing beneficial.
+- Firing 416 agents in January incurs a one-time cost of $13.15M, but hiring now avoids paying idle agents throughout the year.
+
+**Risks:**
+- If we delay hiring until October, we risk losing advertisers due to insufficient support during peak demand.
+- There may be challenges in finding qualified candidates quickly enough to meet the ramp-up time for new hires.
+
+**Decision needed:** Please sign off on the staffing recommendation for France.
+
+## Germany: Approve staffing for Germany: 92 agents Jan-Sep and 131 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 602 | 92 |
+| Agents Oct–Dec | 602 | 131 |
+| Net value 2026 | $11.04M | $23.89M |
+
+**Why:**
+- Hiring 131 agents for Q4 ensures we meet peak demand, preventing potential advertiser losses since we have 0 abandoned advertisers currently.
+- The value per agent is 9.26, indicating each agent generates significantly more value than their cost, justifying the increase in headcount.
+- Firing 510 agents in January incurs a one-time cost of $12.65M, making it financially prudent to hire now rather than pay idle agents later.
+
+**Risks:**
+- If hiring is delayed, we may not have enough agents ready by the busy season, risking advertiser satisfaction.
+- There is a potential for overstaffing if demand does not meet expectations, leading to unnecessary costs.
+
+**Decision needed:** Please sign off on the staffing recommendation for Germany.
+
+## India: Approve staffing for India: 254 agents Jan-Sep and 352 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 428 | 254 |
+| Agents Oct–Dec | 428 | 352 |
+| Net value 2026 | $83.99M | $84.79M |
+
+**Why:**
+- Each agent generates $26.89 for every dollar spent on salary, indicating strong value for the investment.
+- Hiring 352 agents in October is crucial to meet peak demand in Q4, as they require a month to ramp up.
+- Firing 174 agents in January is a cost-effective strategy, saving on idle salaries for the rest of the year.
+
+**Risks:**
+- If hiring is delayed, we may face increased wait times for advertisers, potentially leading to lost business.
+- There is a risk of overstaffing if demand does not meet expectations, which could impact profitability.
+
+**Decision needed:** Please sign off on the recommended staffing levels for India.
+
+## Indonesia: Approve staffing for Indonesia: 32 agents Jan-Sep and 44 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 120 | 32 |
+| Agents Oct–Dec | 120 | 44 |
+| Net value 2026 | $3.68M | $4.33M |
+
+**Why:**
+- Hiring 44 agents in Q4 is crucial to meet peak demand, as the busiest month is November.
+- Each agent generates significant value, with a value per agent of $11.78 compared to their salary of $15,728, ensuring profitability.
+- Firing 88 agents in January reduces costs, as it is cheaper than paying idle agents throughout the year.
+
+**Risks:**
+- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4.
+- If we do not ramp up agents by September, we may face increased wait times for advertisers.
+
+**Decision needed:** Please sign off on the staffing recommendation for Indonesia.
+
+## Italy: Approve staffing for Italy: 87 agents Jan-Sep and 126 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 350 | 87 |
+| Agents Oct–Dec | 350 | 126 |
+| Net value 2026 | $5.7M | $11.0M |
+
+**Why:**
+- Hiring 126 agents for Q4 ensures we meet peak demand, preventing potential advertiser losses since we have 14 daily eligible signups.
+- The value per agent is 5.73, indicating each agent generates significantly more value than their cost, justifying the investment in additional staff.
+- Firing 263 agents in January incurs a one-time cost of $5.48M, making it financially prudent to hire in September rather than maintain idle agents.
+
+**Risks:**
+- If hiring is delayed, we may not have enough agents to handle the increased demand in Q4, risking advertiser satisfaction.
+- The one-time firing cost could impact our budget if not managed properly, especially with a large number of agents being let go.
+
+**Decision needed:** Please sign off on the staffing recommendation for Italy.
+
+## Japan: Approve staffing for Japan: 115 agents Jan-Sep and 162 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 297 | 115 |
+| Agents Oct–Dec | 297 | 162 |
+| Net value 2026 | $24.54M | $28.42M |
+
+**Why:**
+- Hiring 162 agents for Q4 ensures we meet peak demand, as the busiest month is November.
+- Each agent generates a value of $7.22 for every dollar spent on salary, indicating strong profitability.
+- Firing 182 agents in January is cheaper than keeping idle agents, saving on unnecessary costs.
+
+**Risks:**
+- If we delay hiring until October, we may not have enough agents ready for the busy season.
+- There is a risk of losing advertisers if we cannot meet demand during peak times.
+
+**Decision needed:** Please approve the staffing recommendation for Japan.
+
+## Mexico: Approve staffing for 84 agents Jan-Sep and 123 agents Oct-Dec in Mexico.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 442 | 84 |
+| Agents Oct–Dec | 442 | 123 |
+| Net value 2026 | $7.07M | $10.48M |
+
+**Why:**
+- Hiring 123 agents for Q4 ensures we meet peak demand, as the busiest month is November.
+- Each agent generates significant value, with a value per agent of 9.84, far exceeding their salary of $19,789.
+- Firing 358 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
+
+**Risks:**
+- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4 ramp-up.
+- If we do not approve the staffing, we may face increased wait times for advertisers, potentially leading to abandonment.
+
+**Decision needed:** Please sign off on the staffing recommendation for Mexico.
+
+## Poland: Approve staffing for 53 agents Jan-Sep and 70 agents Oct-Dec in Poland.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 150 | 53 |
+| Agents Oct–Dec | 150 | 70 |
+| Net value 2026 | $0.97M | $2.69M |
+
+**Why:**
+- Hiring 70 agents for Q4 ensures we meet peak demand, as the busiest month is November.
+- Each agent generates $3.53 for every dollar spent on salary, indicating strong value for the investment.
+- Firing 97 agents in January is cost-effective compared to paying idle agents throughout the year.
+
+**Risks:**
+- If hiring is delayed, we may not have enough agents to handle the increased demand in Q4.
+- There is a risk of losing advertisers if we cannot meet their needs promptly during peak times.
+
+**Decision needed:** Please approve the staffing plan for Poland.
+
+## South Africa: Approve staffing for South Africa: 52 agents Jan-Sep and 71 agents Oct-Dec.
+
+| | Today | Recommended |
+|---|---|---|
+| Agents Jan–Sep | 78 | 52 |
+| Agents Oct–Dec | 78 | 71 |
+| Net value 2026 | $2.13M | $2.31M |
+
+**Why:**
+- Each agent generates a value of 3.25 times their salary, ensuring profitability with the recommended headcount.
+- Hiring 71 agents in September allows for a full month of ramp-up before peak demand in Q4, preventing potential advertiser losses.
+- Firing 26 agents in January is more cost-effective than keeping idle agents, saving $327,714 in unnecessary expenses.
+
+**Risks:**
+- If hiring is delayed, we may face increased wait times for advertisers during peak season.
+- There is a risk of losing advertisers if we cannot meet demand with the recommended staffing levels.
 
 **Decision needed:** Please sign off on the staffing recommendation for South Africa.
 
-## South Korea: Approve staffing for South Korea: 58 agents Jan-Sep and 83 agents Oct-Dec.
+## South Korea: Approve staffing for South Korea: 64 agents Jan-Sep and 92 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 199 | 58 |
-| Agents Oct–Dec | 199 | 83 |
-| Net value 2026 | $6.64M | $9.11M |
+| Agents Jan–Sep | 199 | 64 |
+| Agents Oct–Dec | 199 | 92 |
+| Net value 2026 | $6.64M | $8.96M |
 
 **Why:**
-- Hiring 83 agents for Q4 ensures we meet peak demand, as the busiest month is November.
-- Each agent generates $5.99 for every dollar spent on salary, indicating strong value for the investment.
-- Firing 141 agents in January is cheaper than keeping idle agents, saving on costs while maintaining service quality.
+- Hiring 92 agents for Q4 ensures we meet peak demand, as the busiest month is November.
+- Each agent generates significant value, with a value per agent of 5.99, far exceeding their salary cost.
+- Firing 135 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
 
 **Risks:**
-- If we delay hiring until October, we risk losing advertisers due to insufficient support during peak demand.
-- There may be challenges in onboarding new agents quickly enough to meet the ramp-up period before Q4.
+- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4.
+- If we do not ramp up agents by September, we may face increased wait times for advertisers.
 
 **Decision needed:** Please sign off on the staffing recommendation for South Korea.
 
-## Spain: Approve staffing for 55 agents Jan-Sep and 79 agents Oct-Dec in Spain.
+## Spain: Approve staffing for Spain: 61 agents Jan-Sep and 87 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 150 | 55 |
-| Agents Oct–Dec | 150 | 79 |
-| Net value 2026 | $5.55M | $6.92M |
+| Agents Jan–Sep | 150 | 61 |
+| Agents Oct–Dec | 150 | 87 |
+| Net value 2026 | $5.55M | $6.81M |
 
 **Why:**
-- Hiring 79 agents in Q4 is crucial as they will support 9.9 daily signups, preventing potential advertiser loss.
-- Firing 95 agents in January is cost-effective, saving $1.55M compared to keeping idle agents throughout the year.
-- Each agent generates $5.3 for every dollar spent on salary, indicating a strong return on investment for the recommended staffing levels.
+- Each agent generates $5.3 for every $33,814 salary, indicating strong value and justifying the recommended headcount.
+- Hiring 87 agents in September ensures we meet peak demand in Q4, preventing potential advertiser losses due to wait times.
+- Firing 89 agents in January is cost-effective, saving on idle salaries and allowing us to adjust staffing based on demand.
 
 **Risks:**
-- There is a risk of not meeting advertiser demand if hiring is delayed, especially with the ramp-up time for new agents.
-- If the demand does not meet expectations, we may face higher costs associated with underutilized agents.
+- If hiring is delayed, we may not meet advertiser needs during the busy Q4 period.
+- Firing too many agents too early could lead to a temporary drop in service quality if demand spikes unexpectedly.
 
-**Decision needed:** Please sign off on the staffing recommendation for Spain.
+**Decision needed:** Please approve the staffing recommendation for Spain.
 
-## Thailand: Approve staffing for Thailand: 19 agents Jan-Sep and 26 agents Oct-Dec.
+## Thailand: Approve staffing for Thailand: 21 agents Jan-Sep and 29 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 139 | 19 |
-| Agents Oct–Dec | 139 | 26 |
-| Net value 2026 | $-1.81M | $-0.37M |
+| Agents Jan–Sep | 139 | 21 |
+| Agents Oct–Dec | 139 | 29 |
+| Net value 2026 | $-1.81M | $-0.4M |
 
 **Why:**
-- Hiring 26 agents in October ensures we meet peak demand in Q4, preventing potential advertiser losses.
-- Each agent generates $3.31 in value for every dollar spent on salary, indicating a strong return on investment.
-- Firing 120 agents in January is cost-effective compared to paying idle agents throughout the year.
+- Each agent generates $3.31 for every $1 spent on salary, indicating strong value for the recommended headcount.
+- Hiring 29 agents in October ensures we meet peak demand in Q4, preventing potential advertiser losses due to wait times.
+- Firing 118 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
 
 **Risks:**
-- If hiring is delayed, we may not meet advertiser needs during the busiest month, leading to potential abandonment.
-- The one-time firing cost of $1,408,762 could impact short-term budgets.
+- There is a risk of not meeting advertiser demand if hiring is delayed beyond September.
+- If the ramp-up period is not accounted for, we may face service gaps during peak months.
 
 **Decision needed:** Please sign off on the recommended staffing levels for Thailand.
 
-## Turkey: Approve staffing for Turkey: 33 agents Jan-Sep and 45 agents Oct-Dec.
+## Turkey: Approve staffing for Turkey: 37 agents Jan-Sep and 50 agents Oct-Dec.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 102 | 33 |
-| Agents Oct–Dec | 102 | 45 |
-| Net value 2026 | $1.14M | $1.91M |
+| Agents Jan–Sep | 102 | 37 |
+| Agents Oct–Dec | 102 | 50 |
+| Net value 2026 | $1.14M | $1.86M |
 
 **Why:**
-- Each agent generates $4.33 for every $1 spent on salary, indicating strong value for the recommended headcount.
-- Hiring 45 agents in October is crucial to meet peak demand in Q4, as they require a month to ramp up.
-- Firing 69 agents in January reduces costs significantly, as it avoids paying idle agents throughout the year.
+- Each agent generates $4.33 for every $1 spent on salary, indicating strong value in hiring more agents.
+- Firing 65 agents in January incurs a cost of $771,782, making it cheaper to hire for peak demand than to pay idle agents.
+- With an average of 5.7 daily eligible signups, not hiring enough agents could lead to lost advertisers during the busy Q4 period.
 
 **Risks:**
-- If we delay hiring until October, we risk losing advertisers due to insufficient support during peak demand.
-- There may be challenges in finding qualified agents quickly enough to meet the October deadline.
+- If hiring is delayed, we may not meet the ramp-up needs for Q4, risking advertiser satisfaction.
+- There is a potential for overstaffing if demand does not meet expectations, leading to unnecessary costs.
 
-**Decision needed:** Please sign off on the staffing recommendation for Turkey.
+**Decision needed:** Please approve the staffing recommendation for Turkey.
 
 ## UAE: Approval needed for staffing changes in UAE: Jan-Sep 0 agents, Oct-Dec 0 agents.
 
@@ -356,68 +353,67 @@
 **Why:**
 - Firing all 309 agents now incurs a one-time cost of $9.72M, which is cheaper than paying idle agents for the entire year.
 - With an average of 2.7 eligible signups daily, we risk losing 768 advertisers if we do not adjust staffing before peak demand in Q4.
-- Each agent currently has a value of 0.46 compared to their salary, indicating that we are not getting a return on our investment with the current headcount.
+- The value per agent is only 0.46, indicating that each agent costs more than the revenue they generate, making current staffing unsustainable.
 
 **Risks:**
-- If we do not hire agents in September, we will not meet the demand in Q4, leading to potential advertiser loss.
-- The decision to fire all agents may impact team morale and future hiring efforts.
+- If we do not hire in September, we will not have agents ready for the busy Q4 period due to the 1-month ramp-up time.
+- Firing all agents may lead to a temporary loss of advertiser support, impacting customer satisfaction.
 
-**Decision needed:** Please sign off on the recommendation to fire all agents and maintain zero staffing for the remainder of the year.
+**Decision needed:** Please sign off on the recommendation to maintain 0 agents for Jan-Sep and Oct-Dec.
 
-## UK: Approve staffing for 99 agents Jan-Sep and 137 agents Oct-Dec in the UK.
+## UK: Approve staffing for 109 agents Jan-Sep and 151 agents Oct-Dec in the UK.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 589 | 99 |
-| Agents Oct–Dec | 589 | 137 |
-| Net value 2026 | $21.09M | $33.5M |
+| Agents Jan–Sep | 589 | 109 |
+| Agents Oct–Dec | 589 | 151 |
+| Net value 2026 | $21.09M | $33.17M |
 
 **Why:**
-- Hiring 137 agents for Q4 ensures we meet peak demand, as the busiest month is November.
-- Each agent generates significant value, with a value per agent of 9.76 times their salary, indicating strong profitability.
-- Firing 490 agents in January is cost-effective compared to paying idle agents throughout the year.
+- Each agent generates $9.76 for every dollar spent on salary, indicating strong value for the investment.
+- Hiring 151 agents in September ensures we meet peak demand in Q4, preventing potential loss of advertisers due to wait times.
+- Firing 480 agents in January is a cost-effective strategy, as it avoids paying idle agents throughout the year.
 
 **Risks:**
-- There is a risk of losing advertisers if we do not hire the recommended agents in time for Q4 ramp-up.
-- If we do not meet the staffing levels, we may face increased wait times for advertisers, potentially leading to abandonment.
+- There is a risk of not meeting the ramp-up time for new hires if we delay the hiring process.
+- If demand unexpectedly decreases, we may have excess staffing beyond what is needed.
 
 **Decision needed:** Please sign off on the staffing recommendation for the UK.
 
-## USA: Approve staffing for 204 agents Jan-Sep and 289 agents Oct-Dec in the USA.
+## USA: Approve staffing for 225 agents Jan-Sep and 318 agents Oct-Dec in the USA.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 652 | 204 |
-| Agents Oct–Dec | 652 | 289 |
-| Net value 2026 | $100.66M | $116.4M |
+| Agents Jan–Sep | 652 | 225 |
+| Agents Oct–Dec | 652 | 318 |
+| Net value 2026 | $100.66M | $115.4M |
 
 **Why:**
-- Each agent generates $9.08 in value for every $1 spent on salary, indicating strong financial justification for hiring more agents.
-- Firing 448 agents in January incurs a one-time cost of $16.83M, making it cheaper to hire agents now rather than pay idle ones throughout the year.
-- With peak demand in Q4, hiring 289 agents in September ensures we meet advertiser needs and avoid losing potential signups.
+- Each agent generates $9.08 for every $1 spent on salary, indicating strong value for the investment.
+- Hiring 318 agents for Q4 is crucial as they need to be onboarded by September to meet peak demand.
+- Firing 427 agents in January incurs a cost of $16.04M, making it more economical to hire the recommended number of agents instead.
 
 **Risks:**
-- If hiring is delayed, we may not have enough agents to handle the increased demand in Q4, leading to longer wait times for advertisers.
-- There is a risk of overstaffing if demand does not meet expectations, which could lead to unnecessary costs.
+- If hiring is delayed, we may not meet advertiser demand during the busiest month, leading to potential loss of advertisers.
+- There is a risk of overstaffing if demand does not meet expectations, but the value per agent suggests this is unlikely.
 
 **Decision needed:** Please sign off on the staffing recommendation for the USA.
 
-## Vietnam: Approve staffing increase from 77 agents Jan-Sep to 107 agents Oct-Dec in Vietnam.
+## Vietnam: Approve staffing increase from 85 agents in Jan-Sep to 118 agents in Oct-Dec for Vietnam.
 
 | | Today | Recommended |
 |---|---|---|
-| Agents Jan–Sep | 59 | 77 |
-| Agents Oct–Dec | 59 | 107 |
-| Net value 2026 | $3.2M | $9.78M |
+| Agents Jan–Sep | 59 | 85 |
+| Agents Oct–Dec | 59 | 118 |
+| Net value 2026 | $3.2M | $9.61M |
 
 **Why:**
-- Hiring 107 agents in Q4 is crucial to meet peak demand, as the busiest month is November.
-- Each agent generates significant value, with a value per agent of 7.94, far exceeding their salary of $17,904.
-- Delaying hiring until October would risk losing advertisers, as the average wait time is only 0.3 days.
+- Hiring 118 agents in Q4 is crucial as we expect peak demand, and each agent can support up to 10 advertisers, preventing potential losses.
+- With a value per agent of 7.94, each agent generates significantly more value than their salary, ensuring a strong return on investment.
+- To meet the demand in November, we must hire agents in September to account for the 1-month ramp-up period.
 
 **Risks:**
-- If hiring is delayed, we may not have enough agents to handle the increased workload in Q4.
-- There is a risk of overstaffing if advertiser demand does not meet expectations, but this is mitigated by the high value per agent.
-- While there are no firing costs this year, we must monitor agent performance closely to avoid future inefficiencies.
+- If we delay hiring, we risk losing advertisers due to longer wait times during peak season.
+- Not hiring enough agents could lead to increased workload on current staff, potentially affecting service quality.
 
-**Decision needed:** Please approve the staffing increase to 107 agents for Q4.
+**Decision needed:** Please sign off on the staffing increase to 118 agents for Q4.
