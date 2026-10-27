@@ -1,4 +1,4 @@
 scenario,net_value_M,abandoned,worst_wait_days,countries_with_wait_over_7_days,agents_jan_sep,agents_oct_dec
-low,376.9,652,0.0,0,1646,2320
-base,475.2,768,1.6,0,1646,2320
-high,428.0,883,19.4,21,1646,2320
+low,372.4,652,0.0,0,1821,2559
+base,470.9,768,0.0,0,1821,2559
+high,559.1,883,4.5,0,1821,2559
